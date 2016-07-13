@@ -1,0 +1,11 @@
+com\test\repository\UserRepository.class
+com\test\demo\DemoApplication.class
+com\test\config\ErrorPageConfig$1.class
+com\test\config\ErrorPageConfig.class
+com\test\config\SecurityConfig.class
+com\test\entry\User$ROLE.class
+com\test\entry\User.class
+com\test\web\HomeController.class
+com\test\config\DataInit.class
+com\test\config\ErrorPageConfig$MyCustomizer.class
+com\test\security\CustomUserDetailsService.class
